@@ -11,6 +11,8 @@ public class Main {
                 "Popescu",
                 165,
                 6);
+
+        //use adapter pattern here
         Database.save(usUser);
     }
 }
